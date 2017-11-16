@@ -5,5 +5,6 @@ public class Main {
         System.out.println("啦啦啦啦!");
         System.out.println("啊啊啊啊啊!");
         System.out.println("eeeeeeeeee");
+        System.out.println("cccccc");
     }
 }
